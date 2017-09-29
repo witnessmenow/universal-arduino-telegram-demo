@@ -10,7 +10,7 @@
 // -------- Define Pins -----------
 
 //RGB Pins (All have a 1k resistor)
-#define RGB_RED_PIN D7
+#define RGB_RED_PIN D5
 #define RGB_BLUE_PIN D0
 #define RGB_GREEN_PIN D6
 
